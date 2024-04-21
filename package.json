@@ -1,6 +1,6 @@
 {
-  "name": "noureen-cli-number-guessing-game",
-  "version": "1.0.2",
+  "name": "ramzan-cli-number-guessing-game",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
